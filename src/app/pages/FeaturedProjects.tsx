@@ -13,7 +13,7 @@ export function FeaturedProjects() {
       id: 1,
       title: "I. MỤC TIÊU",
       category: "Bài 1: Máy tính và các thiết bị ngoại vi",
-      content:`` 
+      content:`dịu hoa` 
     },
      {
       id: 2,
